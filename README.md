@@ -1,2 +1,1 @@
-# Arkanoid-Game
-Arkanoid-Game
+# Arkanoid
